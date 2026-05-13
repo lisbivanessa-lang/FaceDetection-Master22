@@ -46,7 +46,7 @@ The validation accuracy was 98.762% and the final accuracy on the test set was 9
 Positive samples (images of faces) for the classification were taken from 2 sources:
 
     1. Cropped labelled faces in the wild (http://conradsanderson.id.au/lfwcrop/)
-    2. MIT CBCL face recognition database (http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html)
+y    2. MIT CBCL face recognition database (http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html)
 
 The horizontal mirror images of these images were included in the dataset.
 
@@ -72,3 +72,4 @@ Demos with other images can be seen here: https://youtu.be/N4GIGVnyNBo
 
 Output of demo.py:
 ![Alt text](demo_result.png?raw=true)
+
